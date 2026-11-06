@@ -1,0 +1,1164 @@
+[
+  {
+    "subject": "English",
+    "topic": "Things found in the Montessori environment",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:Work mat / rug, P:Low open shelves, P:Child-sized table & chair, P:Hand-washing area, P:Pink tower, P:Number rods, P:Sandpaper letters, P:Pouring activity, P:Plant & nature tray, P:Book corner, P:Peace / quiet spot, P:Shoe / bag area"
+  },
+  {
+    "subject": "English",
+    "topic": "Names of Montessori material",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:Pink tower, P:Brown stairs, P:Red rods, P:Cylinder blocks, P:Colour tablets, P:Sandpaper letters, P:Sandpaper numerals, P:Number rods, P:Spindle box, P:Geometric cabinet"
+  },
+  {
+    "subject": "English",
+    "topic": "Rhymes and stories",
+    "photo": "",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Math",
+    "topic": "Oral counting number (1-5)",
+    "photo": "/content/lessons/oral-counting.webp",
+    "missing": 5,
+    "cards": "Number 1, Number 2, Number 3, Number 4, Number 5"
+  },
+  {
+    "subject": "EVS",
+    "topic": "Myself",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:My name, P:My age, P:My feelings, P:Head, P:Eyes, P:Ears, P:Nose"
+  },
+  {
+    "subject": "EVS",
+    "topic": "Parts of the body",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:Head, P:Eyes, P:Ears, P:Nose, P:Mouth, P:Chest, P:Hands & fingers, P:Legs & feet"
+  },
+  {
+    "subject": "EVS",
+    "topic": "My family",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:Me, P:Mother / parent, P:Father / parent, P:Grandparents, P:Siblings, P:My home"
+  },
+  {
+    "subject": "EVS",
+    "topic": "My home",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:Bedroom, P:Kitchen, P:Living room, P:Bathroom"
+  },
+  {
+    "subject": "EVS",
+    "topic": "My school",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:Work mat / rug, P:Low open shelves, P:Child-sized table & chair, P:Hand-washing area, P:Pink tower, P:Number rods, P:Sandpaper letters, P:Pouring activity"
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Mat activities",
+    "photo": "",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Rolling and unrolling a mat",
+    "photo": "/content/epl/rolling-mat.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "How to sit and get up from a mat",
+    "photo": "/content/epl/sit-on-mat.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "How to walk in between the mats",
+    "photo": "/content/epl/walk-between-mats.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "How to wash hands before food",
+    "photo": "/content/epl/wash-hands.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Spreading of a napkin",
+    "photo": "/content/epl/spread-napkin.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Napkin activities",
+    "photo": "/content/epl/napkin-folding.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Sorting beads",
+    "photo": "/content/epl/sorting-beads.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Tong activity",
+    "photo": "/content/epl/tongs.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Peg activity",
+    "photo": "/content/epl/pegs.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Puzzles",
+    "photo": "/content/epl/puzzles.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Sensorial",
+    "topic": "Cylinder block",
+    "photo": "/content/lessons/cylinder-blocks.webp",
+    "missing": 0,
+    "cards": "P:Cylinder blocks"
+  },
+  {
+    "subject": "Sensorial",
+    "topic": "Pink tower",
+    "photo": "/content/lessons/pink-tower.webp",
+    "missing": 0,
+    "cards": "P:Pink tower"
+  },
+  {
+    "subject": "English",
+    "topic": "Sandpaper tracing (a, e, i, o, u)",
+    "photo": "/content/lessons/sandpaper-letters.webp",
+    "missing": 5,
+    "cards": "Letter A, Letter E, Letter I, Letter O, Letter U"
+  },
+  {
+    "subject": "English",
+    "topic": "Classification pictures",
+    "photo": "/content/lessons/classification.webp",
+    "missing": 0,
+    "cards": "P:Apple, P:Banana, P:Cow, P:Dog, P:Fish, P:Bird"
+  },
+  {
+    "subject": "English",
+    "topic": "Phonic song (a-z)",
+    "photo": "",
+    "missing": 26,
+    "cards": "Letter A, Letter B, Letter C, Letter D, Letter E, Letter F, Letter G, Letter H, Letter I, Letter J, Letter K, Letter L, Letter M, Letter N, Letter O, Letter P, Letter Q, Letter R, Letter S, Letter T, Letter U, Letter V, Letter W, Letter X, Letter Y, Letter Z"
+  },
+  {
+    "subject": "Math",
+    "topic": "Oral counting number linear and random(1-5)",
+    "photo": "/content/lessons/oral-counting.webp",
+    "missing": 5,
+    "cards": "Number 1, Number 2, Number 3, Number 4, Number 5"
+  },
+  {
+    "subject": "Math",
+    "topic": "Sandpaper figure (1,2,3)",
+    "photo": "/content/lessons/sandpaper-numerals.webp",
+    "missing": 3,
+    "cards": "Number 1, Number 2, Number 3"
+  },
+  {
+    "subject": "EVS",
+    "topic": "Good touch and bad touch",
+    "photo": "/content/lessons/safe-touch.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "How to hold, lift, carry and putdown (mat, sitting mat, oilcloth, chair and tray)",
+    "photo": "/content/epl/carry-tray-chair.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Silence activity",
+    "photo": "/content/epl/silence.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Threading activity",
+    "photo": "/content/epl/threading.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Lock and key activity",
+    "photo": "/content/epl/lock-and-key.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Opening and closing lids",
+    "photo": "/content/epl/opening-lids.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "How to greet",
+    "photo": "/content/epl/greeting.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "How to use five magical words",
+    "photo": "/content/epl/magic-words.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "How to sneeze, cough and yawn",
+    "photo": "/content/epl/sneeze-cough.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Sensorial",
+    "topic": "Touch boards (rough and smooth)",
+    "photo": "/content/lessons/touch-boards.webp",
+    "missing": 0,
+    "cards": "P:Touch boards"
+  },
+  {
+    "subject": "Sensorial",
+    "topic": "Brown stairs",
+    "photo": "/content/lessons/brown-stairs.webp",
+    "missing": 0,
+    "cards": "P:Brown stairs"
+  },
+  {
+    "subject": "Sensorial",
+    "topic": "Colour tablets box-1",
+    "photo": "/content/lessons/colour-box-1.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Sensorial",
+    "topic": "Gustatory activity",
+    "photo": "/content/lessons/gustatory.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Speaking Skills",
+    "topic": "My happy family",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:Me, P:Mother / parent, P:Father / parent, P:Grandparents, P:Siblings, P:My home"
+  },
+  {
+    "subject": "English",
+    "topic": "Name the things around us",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:Work mat / rug, P:Low open shelves, P:Child-sized table & chair, P:Hand-washing area, P:Pink tower, P:Number rods, P:Sandpaper letters, P:Pouring activity, P:Plant & nature tray, P:Book corner, P:Peace / quiet spot, P:Shoe / bag area"
+  },
+  {
+    "subject": "English",
+    "topic": "Sandpaper letter tracing (a, o, i, u, e)",
+    "photo": "/content/lessons/sandpaper-letters.webp",
+    "missing": 5,
+    "cards": "Letter A, Letter O, Letter I, Letter U, Letter E"
+  },
+  {
+    "subject": "English",
+    "topic": "a-z with sounds",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:sun, P:cat, P:map, P:dog, P:egg"
+  },
+  {
+    "subject": "English",
+    "topic": "Sandpaper letter tracing (c, w, v, n)",
+    "photo": "/content/lessons/sandpaper-letters.webp",
+    "missing": 4,
+    "cards": "Letter C, Letter W, Letter V, Letter N"
+  },
+  {
+    "subject": "English",
+    "topic": "Oral phonetic analysis -object box",
+    "photo": "/content/lessons/object-box.webp",
+    "missing": 0,
+    "cards": "P:sun, P:cat, P:map, P:dog, P:egg"
+  },
+  {
+    "subject": "English",
+    "topic": "Opposites",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:Big — small, P:Tall — short, P:Hot — cold, P:Full — empty"
+  },
+  {
+    "subject": "Math",
+    "topic": "Oral counting of numerals (1-5)",
+    "photo": "/content/lessons/oral-counting.webp",
+    "missing": 5,
+    "cards": "Number 1, Number 2, Number 3, Number 4, Number 5"
+  },
+  {
+    "subject": "Math",
+    "topic": "Sandpaper figure (1-3)",
+    "photo": "/content/lessons/sandpaper-numerals.webp",
+    "missing": 3,
+    "cards": "Number 1, Number 2, Number 3"
+  },
+  {
+    "subject": "Math",
+    "topic": "Oral counting of numerals (6-10)",
+    "photo": "/content/lessons/oral-counting.webp",
+    "missing": 5,
+    "cards": "Number 6, Number 7, Number 8, Number 9, Number 10"
+  },
+  {
+    "subject": "Math",
+    "topic": "Sandpaper figure (4-6)",
+    "photo": "/content/lessons/sandpaper-numerals.webp",
+    "missing": 3,
+    "cards": "Number 4, Number 5, Number 6"
+  },
+  {
+    "subject": "Math",
+    "topic": "Basic shapes",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:Circle, P:Square, P:Triangle, P:Rectangle"
+  },
+  {
+    "subject": "EVS",
+    "topic": "Myself and my family",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:Me, P:Mother / parent, P:Father / parent, P:Grandparents, P:Siblings, P:My home, P:My school"
+  },
+  {
+    "subject": "EVS",
+    "topic": "Rainbow colours",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:Red, P:Orange, P:Yellow, P:Green, P:Blue, P:Indigo / violet"
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Napkin activity",
+    "photo": "/content/epl/napkin-folding.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Sorting activity",
+    "photo": "/content/epl/sorting-beads.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Pairing pictures",
+    "photo": "/content/epl/pairing-pictures.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Open and closing lids",
+    "photo": "/content/epl/opening-lids.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Social behavioral activities:",
+    "photo": "/content/epl/magic-words.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Colour sorting activity",
+    "photo": "/content/epl/colour-sorting.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Puzzles – colours and shapes",
+    "photo": "/content/epl/colour-shape-puzzle.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Sensorial",
+    "topic": "Dimensional materials",
+    "photo": "/content/lessons/pink-tower.webp",
+    "missing": 0,
+    "cards": "P:Pink tower, P:Brown stairs, P:Red rods"
+  },
+  {
+    "subject": "Sensorial",
+    "topic": "Red rods",
+    "photo": "/content/lessons/red-rods.webp",
+    "missing": 0,
+    "cards": "P:Red rods"
+  },
+  {
+    "subject": "Sensorial",
+    "topic": "Geometrical cabinet",
+    "photo": "/content/lessons/geometric-cabinet.webp",
+    "missing": 0,
+    "cards": "P:Geometric cabinet"
+  },
+  {
+    "subject": "Sensorial",
+    "topic": "Colour tablets box-2",
+    "photo": "/content/lessons/colour-box-2.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Speaking Skills",
+    "topic": "My favourite colour",
+    "photo": "/content/lessons/speaking.webp",
+    "missing": 0,
+    "cards": "P:Red, P:Orange, P:Yellow, P:Green, P:Blue, P:Indigo / violet"
+  },
+  {
+    "subject": "English",
+    "topic": "Sandpaper letter tracing (e, u, c, w, v)",
+    "photo": "/content/lessons/sandpaper-letters.webp",
+    "missing": 5,
+    "cards": "Letter E, Letter U, Letter C, Letter W, Letter V"
+  },
+  {
+    "subject": "English",
+    "topic": "a-z with sounds and flash cards",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:sun, P:cat, P:map, P:dog, P:egg"
+  },
+  {
+    "subject": "English",
+    "topic": "Object box",
+    "photo": "/content/lessons/object-box.webp",
+    "missing": 0,
+    "cards": "P:sun, P:cat, P:map, P:dog, P:egg"
+  },
+  {
+    "subject": "English",
+    "topic": "Sandpaper letter tracing (n, m, r, s)",
+    "photo": "/content/lessons/sandpaper-letters.webp",
+    "missing": 4,
+    "cards": "Letter N, Letter M, Letter R, Letter S"
+  },
+  {
+    "subject": "English",
+    "topic": "Object box – first sound",
+    "photo": "/content/lessons/object-box.webp",
+    "missing": 0,
+    "cards": "P:sun, P:cat, P:map, P:dog, P:egg"
+  },
+  {
+    "subject": "Math",
+    "topic": "Oral counting of numerals linear and random (1-10)",
+    "photo": "/content/lessons/oral-counting.webp",
+    "missing": 10,
+    "cards": "Number 1, Number 2, Number 3, Number 4, Number 5, Number 6, Number 7, Number 8, Number 9, Number 10"
+  },
+  {
+    "subject": "Math",
+    "topic": "Sandpaper tracing (1-6)",
+    "photo": "/content/lessons/sandpaper-numerals.webp",
+    "missing": 6,
+    "cards": "Number 1, Number 2, Number 3, Number 4, Number 5, Number 6"
+  },
+  {
+    "subject": "Math",
+    "topic": "Oral counting of numerals linear and random (11-15)",
+    "photo": "/content/lessons/oral-counting.webp",
+    "missing": 5,
+    "cards": "Number 11, Number 12, Number 13, Number 14, Number 15"
+  },
+  {
+    "subject": "Math",
+    "topic": "Sandpaper tracing (7,8,9,0)",
+    "photo": "/content/lessons/sandpaper-numerals.webp",
+    "missing": 4,
+    "cards": "Number 7, Number 8, Number 9, Number 0"
+  },
+  {
+    "subject": "EVS",
+    "topic": "Animals (names, sounds, homes and young ones)",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:Cow, P:Hen, P:Dog, P:Cat, P:Sheep, P:Goat, P:Lion, P:Elephant, P:Tiger, P:Monkey, P:Deer, P:Fish, P:Frog, P:Bird, P:Butterfly, P:Turtle"
+  },
+  {
+    "subject": "EVS",
+    "topic": "Domestic animals (pet and farm animals)",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:Cow, P:Hen, P:Dog, P:Cat, P:Sheep, P:Goat"
+  },
+  {
+    "subject": "EVS",
+    "topic": "Wild animals",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:Lion, P:Elephant, P:Tiger, P:Monkey, P:Deer"
+  },
+  {
+    "subject": "EVS",
+    "topic": "Aquatic animals",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:Fish, P:Frog, P:Turtle"
+  },
+  {
+    "subject": "EVS",
+    "topic": "Insects and birds",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:Bird, P:Butterfly"
+  },
+  {
+    "subject": "EVS",
+    "topic": "Life cycle of a hen",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:1. Egg, P:2. Hen sits on eggs, P:3. Hatching, P:4. Chick, P:5. Young hen, P:6. Hen"
+  },
+  {
+    "subject": "EVS",
+    "topic": "Globe – land and water",
+    "photo": "/content/lessons/globe.webp",
+    "missing": 0,
+    "cards": "P:Globe, P:Water (blue), P:Land (brown/green), P:World map"
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Social behavior activities",
+    "photo": "/content/epl/magic-words.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Frames",
+    "photo": "/content/epl/dressing-frames.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Pounding activity",
+    "photo": "/content/epl/pounding.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Sensorial",
+    "topic": "Cylinder blocks",
+    "photo": "/content/lessons/cylinder-blocks.webp",
+    "missing": 0,
+    "cards": "P:Cylinder blocks"
+  },
+  {
+    "subject": "Sensorial",
+    "topic": "Colour box - 2",
+    "photo": "/content/lessons/colour-box-2.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Sensorial",
+    "topic": "Colour box -2 (memory exercise)",
+    "photo": "/content/lessons/colour-box-2.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Sensorial",
+    "topic": "Geometrical cabinet trays",
+    "photo": "/content/lessons/geometric-cabinet.webp",
+    "missing": 0,
+    "cards": "P:Geometric cabinet"
+  },
+  {
+    "subject": "Sensorial",
+    "topic": "Binomial square",
+    "photo": "/content/lessons/binomial-cube.webp",
+    "missing": 0,
+    "cards": "P:Binomial cube"
+  },
+  {
+    "subject": "Speaking Skills",
+    "topic": "Animals around us",
+    "photo": "/content/lessons/speaking.webp",
+    "missing": 0,
+    "cards": "P:Cow, P:Hen, P:Dog, P:Cat, P:Lion, P:Elephant"
+  },
+  {
+    "subject": "English",
+    "topic": "Sandpaper letter tracing (c-s)",
+    "photo": "/content/lessons/sandpaper-letters.webp",
+    "missing": 17,
+    "cards": "Letter C, Letter D, Letter E, Letter F, Letter G, Letter H, Letter I, Letter J, Letter K, Letter L, Letter M, Letter N, Letter O, Letter P, Letter Q, Letter R, Letter S"
+  },
+  {
+    "subject": "English",
+    "topic": "Sandpaper letter tracing (x, y, z, j)",
+    "photo": "/content/lessons/sandpaper-letters.webp",
+    "missing": 4,
+    "cards": "Letter X, Letter Y, Letter Z, Letter J"
+  },
+  {
+    "subject": "English",
+    "topic": "Association of pictures with sounds",
+    "photo": "/content/lessons/object-box.webp",
+    "missing": 0,
+    "cards": "P:sun, P:cat, P:map, P:dog, P:egg"
+  },
+  {
+    "subject": "Math",
+    "topic": "Oral counting of numerals (1-15)",
+    "photo": "/content/lessons/oral-counting.webp",
+    "missing": 15,
+    "cards": "Number 1, Number 2, Number 3, Number 4, Number 5, Number 6, Number 7, Number 8, Number 9, Number 10, Number 11, Number 12, Number 13, Number 14, Number 15"
+  },
+  {
+    "subject": "Math",
+    "topic": "Sandpaper tracing (0-9)",
+    "photo": "/content/lessons/sandpaper-numerals.webp",
+    "missing": 10,
+    "cards": "Number 0, Number 1, Number 2, Number 3, Number 4, Number 5, Number 6, Number 7, Number 8, Number 9"
+  },
+  {
+    "subject": "Math",
+    "topic": "Oral counting of numerals (16-20)",
+    "photo": "/content/lessons/oral-counting.webp",
+    "missing": 5,
+    "cards": "Number 16, Number 17, Number 18, Number 19, Number 20"
+  },
+  {
+    "subject": "Math",
+    "topic": "Association of basic shapes with objects in the environment",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:Circle, P:Square, P:Triangle, P:Rectangle"
+  },
+  {
+    "subject": "Math",
+    "topic": "Association pictures with numerals (1-5)",
+    "photo": "/content/lessons/shell-counting.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Math",
+    "topic": "Number rods",
+    "photo": "/content/lessons/number-rods.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EVS",
+    "topic": "Animals, birds and insects",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:Cow, P:Hen, P:Dog, P:Cat, P:Lion, P:Elephant, P:Tiger, P:Fish, P:Frog, P:Bird, P:Butterfly, P:Turtle"
+  },
+  {
+    "subject": "EVS",
+    "topic": "Globe- land and water",
+    "photo": "/content/lessons/globe.webp",
+    "missing": 0,
+    "cards": "P:Globe, P:Water (blue), P:Land (brown/green), P:World map"
+  },
+  {
+    "subject": "EVS",
+    "topic": "National symbols",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:National flag, P:National emblem, P:National anthem, P:National animal, P:National bird, P:National flower"
+  },
+  {
+    "subject": "EVS",
+    "topic": "National leaders",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:Mahatma Gandhi, P:Jawaharlal Nehru, P:Dr. B. R. Ambedkar, P:Subhas Chandra Bose"
+  },
+  {
+    "subject": "EVS",
+    "topic": "Parts of a book",
+    "photo": "/content/lessons/parts-of-book.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EVS",
+    "topic": "How to take care of a book",
+    "photo": "/content/lessons/book-care.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EVS",
+    "topic": "Continents – world map",
+    "photo": "/content/lessons/globe.webp",
+    "missing": 0,
+    "cards": "P:Globe, P:Water (blue), P:Land (brown/green), P:World map"
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "How to offer a sharp object",
+    "photo": "/content/epl/offer-sharp.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "How to use scissors",
+    "photo": "/content/epl/scissors.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Folding T-shirt",
+    "photo": "/content/epl/fold-tshirt.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Transferring liquids",
+    "photo": "/content/epl/transfer-liquid.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Walking on the line",
+    "photo": "/content/epl/walk-line.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Sensorial",
+    "topic": "Colour box -2",
+    "photo": "/content/lessons/colour-box-2.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Sensorial",
+    "topic": "Binominal square",
+    "photo": "/content/lessons/binomial-cube.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Sensorial",
+    "topic": "Geometrical cards",
+    "photo": "/content/lessons/geometric-cards.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Sensorial",
+    "topic": "Colored cylinders",
+    "photo": "/content/lessons/knobless-cylinders.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Speaking Skills",
+    "topic": "Our National Flag",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:National flag, P:National emblem, P:National anthem, P:National animal, P:National bird, P:National flower"
+  },
+  {
+    "subject": "English",
+    "topic": "Alphabet a-z sounds",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:sun, P:cat, P:map, P:dog, P:egg"
+  },
+  {
+    "subject": "English",
+    "topic": "Sandpaper letter tracing (c -j)",
+    "photo": "/content/lessons/sandpaper-letters.webp",
+    "missing": 8,
+    "cards": "Letter C, Letter D, Letter E, Letter F, Letter G, Letter H, Letter I, Letter J"
+  },
+  {
+    "subject": "English",
+    "topic": "Sandpaper letter tracing (g, q, p)",
+    "photo": "/content/lessons/sandpaper-letters.webp",
+    "missing": 3,
+    "cards": "Letter G, Letter Q, Letter P"
+  },
+  {
+    "subject": "English",
+    "topic": "Object box - last sound",
+    "photo": "/content/lessons/object-box.webp",
+    "missing": 0,
+    "cards": "P:sun, P:cat, P:map, P:dog, P:egg"
+  },
+  {
+    "subject": "English",
+    "topic": "Association of sounds with pictures",
+    "photo": "/content/lessons/object-box.webp",
+    "missing": 0,
+    "cards": "P:sun, P:cat, P:map, P:dog, P:egg"
+  },
+  {
+    "subject": "Math",
+    "topic": "Oral counting of numerals (1-20)",
+    "photo": "/content/lessons/oral-counting.webp",
+    "missing": 20,
+    "cards": "Number 1, Number 2, Number 3, Number 4, Number 5, Number 6, Number 7, Number 8, Number 9, Number 10, Number 11, Number 12, Number 13, Number 14, Number 15, Number 16, Number 17, Number 18, Number 19, Number 20"
+  },
+  {
+    "subject": "Math",
+    "topic": "Oral counting of numerals (21-25)",
+    "photo": "/content/lessons/oral-counting.webp",
+    "missing": 5,
+    "cards": "Number 21, Number 22, Number 23, Number 24, Number 25"
+  },
+  {
+    "subject": "Math",
+    "topic": "Shell counting (1-5)",
+    "photo": "/content/lessons/shell-counting.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Math",
+    "topic": "Zero activity",
+    "photo": "/content/lessons/spindle-box.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Math",
+    "topic": "Number rods and cards",
+    "photo": "/content/lessons/number-rods.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EVS",
+    "topic": "Globe",
+    "photo": "/content/lessons/globe.webp",
+    "missing": 0,
+    "cards": "P:Globe, P:Water (blue), P:Land (brown/green), P:World map"
+  },
+  {
+    "subject": "EVS",
+    "topic": "Continents -world map",
+    "photo": "/content/lessons/globe.webp",
+    "missing": 0,
+    "cards": "P:Globe, P:Water (blue), P:Land (brown/green), P:World map"
+  },
+  {
+    "subject": "EVS",
+    "topic": "Flowers",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:Rose, P:Lotus, P:Marigold, P:Sunflower, P:Jasmine"
+  },
+  {
+    "subject": "EVS",
+    "topic": "Germination",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:Seed, P:Sprout, P:Stem, P:Leaf, P:Flower, P:Tree"
+  },
+  {
+    "subject": "EVS",
+    "topic": "Parts of a tree",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:Seed, P:Sprout, P:Stem, P:Leaf, P:Flower, P:Tree"
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "How to use scissors to cut patterns",
+    "photo": "/content/epl/pattern-cutting.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Folding T-shirt activity",
+    "photo": "/content/epl/fold-tshirt.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Rolling dough",
+    "photo": "/content/epl/rolling-dough.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Transferring grains",
+    "photo": "/content/epl/transfer-grains.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Pattern cutting using scissors",
+    "photo": "/content/epl/pattern-cutting.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Sensorial",
+    "topic": "Colour cylinders",
+    "photo": "/content/lessons/knobless-cylinders.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Sensorial",
+    "topic": "Trinomial square",
+    "photo": "/content/lessons/trinomial-cube.webp",
+    "missing": 0,
+    "cards": "P:Trinomial cube"
+  },
+  {
+    "subject": "Sensorial",
+    "topic": "Constructive triangles",
+    "photo": "/content/lessons/constructive-triangles.webp",
+    "missing": 0,
+    "cards": "P:Constructive triangles"
+  },
+  {
+    "subject": "Sensorial",
+    "topic": "Geometrical cards (3sets)",
+    "photo": "/content/lessons/geometric-cards.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Speaking Skills",
+    "topic": "The flower I like the most",
+    "photo": "/content/lessons/speaking.webp",
+    "missing": 0,
+    "cards": "P:Rose, P:Lotus, P:Marigold, P:Sunflower, P:Jasmine"
+  },
+  {
+    "subject": "English",
+    "topic": "Sandpaper letter tracing (l, h, t, b)",
+    "photo": "/content/lessons/sandpaper-letters.webp",
+    "missing": 4,
+    "cards": "Letter L, Letter H, Letter T, Letter B"
+  },
+  {
+    "subject": "English",
+    "topic": "Object box – first and last sound",
+    "photo": "/content/lessons/object-box.webp",
+    "missing": 0,
+    "cards": "P:sun, P:cat, P:map, P:dog, P:egg"
+  },
+  {
+    "subject": "English",
+    "topic": "Pattern book",
+    "photo": "/content/lessons/patterns.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Math",
+    "topic": "Oral counting of numerals (1-25)",
+    "photo": "/content/lessons/oral-counting.webp",
+    "missing": 25,
+    "cards": "Number 1, Number 2, Number 3, Number 4, Number 5, Number 6, Number 7, Number 8, Number 9, Number 10, Number 11, Number 12, Number 13, Number 14, Number 15, Number 16, Number 17, Number 18, Number 19, Number 20, Number 21, Number 22, Number 23, Number 24, Number 25"
+  },
+  {
+    "subject": "Math",
+    "topic": "Oral counting of numerals (26-30)",
+    "photo": "/content/lessons/oral-counting.webp",
+    "missing": 5,
+    "cards": "Number 26, Number 27, Number 28, Number 29, Number 30"
+  },
+  {
+    "subject": "Math",
+    "topic": "Chit game",
+    "photo": "/content/lessons/cards-counters.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Math",
+    "topic": "Spindle box-1",
+    "photo": "/content/lessons/spindle-box.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "EVS",
+    "topic": "World map",
+    "photo": "/content/lessons/globe.webp",
+    "missing": 0,
+    "cards": "P:Globe, P:Water (blue), P:Land (brown/green), P:World map"
+  },
+  {
+    "subject": "EVS",
+    "topic": "Fruits",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:Apple, P:Banana, P:Mango, P:Grapes, P:Orange, P:Watermelon"
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Table manners",
+    "photo": "/content/epl/table-manners.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Sensorial",
+    "topic": "Geometrical cabinet and cards",
+    "photo": "/content/lessons/geometric-cabinet.webp",
+    "missing": 0,
+    "cards": "P:Geometric cabinet"
+  },
+  {
+    "subject": "Sensorial",
+    "topic": "Drawing insets",
+    "photo": "/content/lessons/drawing-insets.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Speaking Skills",
+    "topic": "Fruit I like to eat",
+    "photo": "/content/lessons/speaking.webp",
+    "missing": 0,
+    "cards": "P:Apple, P:Banana, P:Mango, P:Grapes, P:Orange, P:Watermelon"
+  },
+  {
+    "subject": "English",
+    "topic": "Association of sounds to pictures",
+    "photo": "/content/lessons/object-box.webp",
+    "missing": 0,
+    "cards": "P:sun, P:cat, P:map, P:dog, P:egg"
+  },
+  {
+    "subject": "English",
+    "topic": "Sandpaper letter tracing (d, k, f)",
+    "photo": "/content/lessons/sandpaper-letters.webp",
+    "missing": 3,
+    "cards": "Letter D, Letter K, Letter F"
+  },
+  {
+    "subject": "English",
+    "topic": "Drawing patterns",
+    "photo": "/content/lessons/patterns.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Math",
+    "topic": "Oral counting of numerals (1-30)",
+    "photo": "/content/lessons/oral-counting.webp",
+    "missing": 30,
+    "cards": "Number 1, Number 2, Number 3, Number 4, Number 5, Number 6, Number 7, Number 8, Number 9, Number 10, Number 11, Number 12, Number 13, Number 14, Number 15, Number 16, Number 17, Number 18, Number 19, Number 20, Number 21, Number 22, Number 23, Number 24, Number 25, Number 26, Number 27, Number 28, Number 29, Number 30"
+  },
+  {
+    "subject": "Math",
+    "topic": "Spindle box",
+    "photo": "/content/lessons/spindle-box.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Math",
+    "topic": "Oral counting of numerals (31-35)",
+    "photo": "/content/lessons/oral-counting.webp",
+    "missing": 5,
+    "cards": "Number 31, Number 32, Number 33, Number 34, Number 35"
+  },
+  {
+    "subject": "EVS",
+    "topic": "Globe and continents",
+    "photo": "/content/lessons/globe.webp",
+    "missing": 0,
+    "cards": "P:Globe, P:Water (blue), P:Land (brown/green), P:World map"
+  },
+  {
+    "subject": "EVS",
+    "topic": "Vegetables",
+    "photo": "",
+    "missing": 0,
+    "cards": "P:Carrot, P:Potato, P:Tomato, P:Beans / peas, P:Spinach / greens, P:Onion"
+  },
+  {
+    "subject": "EPL Activities",
+    "topic": "Sorting fruits and vegetables",
+    "photo": "/content/epl/sort-fruit-veg.webp",
+    "missing": 0,
+    "cards": ""
+  },
+  {
+    "subject": "Sensorial",
+    "topic": "Binomial cube",
+    "photo": "/content/lessons/binomial-cube.webp",
+    "missing": 0,
+    "cards": "P:Binomial cube"
+  },
+  {
+    "subject": "Speaking Skills",
+    "topic": "Vegetables are yummy",
+    "photo": "/content/lessons/speaking.webp",
+    "missing": 0,
+    "cards": "P:Carrot, P:Potato, P:Tomato, P:Beans / peas, P:Spinach / greens, P:Onion"
+  }
+]

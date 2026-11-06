@@ -1,0 +1,975 @@
+[
+  {
+    "month": "March",
+    "year": "2026-2027",
+    "subjects": [
+      {
+        "name": "English",
+        "blocks": [
+          {
+            "phase": "introduction",
+            "topics": [
+              "Things found in the Montessori environment",
+              "Names of Montessori material",
+              "Rhymes and stories"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Math",
+        "blocks": [
+          {
+            "phase": "introduction",
+            "topics": [
+              "Oral counting number (1-5)"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "EVS",
+        "blocks": [
+          {
+            "phase": "introduction",
+            "topics": [
+              "Myself",
+              "Parts of the body",
+              "My family",
+              "My home",
+              "My school"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "EPL Activities",
+        "blocks": [
+          {
+            "phase": "introduction",
+            "topics": [
+              "Mat activities",
+              "Rolling and unrolling a mat",
+              "How to sit and get up from a mat",
+              "How to walk in between the mats",
+              "How to wash hands before food",
+              "Spreading of a napkin",
+              "Napkin activities"
+            ]
+          },
+          {
+            "phase": "preliminary activities",
+            "topics": [
+              "Sorting beads",
+              "Tong activity",
+              "Peg activity",
+              "Puzzles"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sensorial",
+        "blocks": [
+          {
+            "phase": "introduction",
+            "topics": [
+              "Cylinder block",
+              "Pink tower"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "April",
+    "year": "2026-2027",
+    "subjects": [
+      {
+        "name": "English",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Things found in the Montessori environment",
+              "Names of Montessori material",
+              "Rhymes and stories"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Sandpaper tracing (a, e, i, o, u)",
+              "Classification pictures",
+              "Phonic song (a-z)"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Math",
+        "blocks": [
+          {
+            "phase": "introduction",
+            "topics": [
+              "Oral counting number linear and random(1-5)",
+              "Sandpaper figure (1,2,3)"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "EVS",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Myself",
+              "Parts of the body",
+              "My family",
+              "My home",
+              "My school"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Good touch and bad touch"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "EPL Activities",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Mat activities",
+              "Rolling and unrolling a mat",
+              "How to sit and get up from a mat",
+              "How to walk in between the mats",
+              "How to wash hands before food",
+              "Spreading of a napkin",
+              "Napkin activities"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "How to hold, lift, carry and putdown (mat, sitting mat, oilcloth, chair and tray)",
+              "Silence activity"
+            ]
+          },
+          {
+            "phase": "revision",
+            "topics": [
+              "Sorting beads",
+              "Tong activity",
+              "Peg activity",
+              "Puzzles"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Threading activity",
+              "Lock and key activity",
+              "Opening and closing lids"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "How to greet",
+              "How to use five magical words",
+              "How to sneeze, cough and yawn"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sensorial",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Cylinder block",
+              "Pink tower"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Touch boards (rough and smooth)",
+              "Brown stairs",
+              "Colour tablets box-1",
+              "Gustatory activity"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Speaking Skills",
+        "blocks": [
+          {
+            "phase": "general",
+            "topics": [
+              "My happy family"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "June",
+    "year": "2026-27",
+    "subjects": [
+      {
+        "name": "English",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Name the things around us",
+              "Sandpaper letter tracing (a, o, i, u, e)",
+              "a-z with sounds"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Sandpaper letter tracing (c, w, v, n)",
+              "Oral phonetic analysis -object box",
+              "Opposites",
+              "Rhymes and stories"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Math",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Oral counting of numerals (1-5)",
+              "Sandpaper figure (1-3)"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Oral counting of numerals (6-10)",
+              "Sandpaper figure (4-6)",
+              "Basic shapes"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "EVS",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Myself and my family",
+              "Parts of the body"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Rainbow colours"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "EPL Activities",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Mat activities",
+              "How to wash hands before food",
+              "Napkin activity",
+              "Silence activity",
+              "Peg activity",
+              "Sorting activity",
+              "Tong activity",
+              "Threading activity",
+              "Puzzles",
+              "Pairing pictures",
+              "Lock and key activity",
+              "Open and closing lids",
+              "Social behavioral activities:"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Colour sorting activity",
+              "Puzzles – colours and shapes"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sensorial",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Dimensional materials"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Red rods",
+              "Geometrical cabinet",
+              "Colour tablets box-2"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Speaking Skills",
+        "blocks": [
+          {
+            "phase": "general",
+            "topics": [
+              "My favourite colour"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "July",
+    "year": "2026-27",
+    "subjects": [
+      {
+        "name": "English",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Sandpaper letter tracing (e, u, c, w, v)",
+              "a-z with sounds and flash cards",
+              "Object box",
+              "Opposites",
+              "Rhymes and stories"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Sandpaper letter tracing (n, m, r, s)",
+              "Object box – first sound"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Math",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Basic shapes",
+              "Oral counting of numerals linear and random (1-10)",
+              "Sandpaper tracing (1-6)"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Oral counting of numerals linear and random (11-15)",
+              "Sandpaper tracing (7,8,9,0)"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "EVS",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Rainbow colours"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Animals (names, sounds, homes and young ones)",
+              "Domestic animals (pet and farm animals)",
+              "Wild animals",
+              "Aquatic animals",
+              "Insects and birds",
+              "Life cycle of a hen",
+              "Globe – land and water"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "EPL Activities",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Social behavior activities",
+              "Frames",
+              "Colour sorting activity",
+              "Puzzles"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Pounding activity",
+              "Puzzles"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sensorial",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Cylinder blocks",
+              "Pink tower",
+              "Brown stairs",
+              "Colour box - 2",
+              "Red rods",
+              "Geometrical cabinet"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Colour box -2 (memory exercise)",
+              "Geometrical cabinet trays",
+              "Binomial square"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Speaking Skills",
+        "blocks": [
+          {
+            "phase": "general",
+            "topics": [
+              "Animals around us"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "August",
+    "year": "2026-27",
+    "subjects": [
+      {
+        "name": "English",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Sandpaper letter tracing (c-s)",
+              "a-z with sounds",
+              "Object box – first sound",
+              "Opposites",
+              "Rhymes and stories"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Sandpaper letter tracing (x, y, z, j)",
+              "Association of pictures with sounds"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Math",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Oral counting of numerals (1-15)",
+              "Sandpaper tracing (0-9)"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Oral counting of numerals (16-20)",
+              "Association of basic shapes with objects in the environment",
+              "Association pictures with numerals (1-5)",
+              "Number rods"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "EVS",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Animals, birds and insects",
+              "Globe- land and water"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "National symbols",
+              "National leaders",
+              "Parts of a book",
+              "How to take care of a book",
+              "Continents – world map"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "EPL Activities",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Puzzles",
+              "Pounding activity"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "How to offer a sharp object",
+              "How to use scissors",
+              "Folding T-shirt",
+              "Transferring liquids",
+              "Walking on the line"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sensorial",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Dimensional materials",
+              "Colour box -2",
+              "Red rods",
+              "Geometrical cabinet",
+              "Binominal square"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Geometrical cards",
+              "Colored cylinders"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Speaking Skills",
+        "blocks": [
+          {
+            "phase": "general",
+            "topics": [
+              "Our National Flag"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "September",
+    "year": "2026-27",
+    "subjects": [
+      {
+        "name": "English",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Alphabet a-z sounds",
+              "Sandpaper letter tracing (c -j)",
+              "Object box – first sound",
+              "Opposites",
+              "Rhymes and stories"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Sandpaper letter tracing (g, q, p)",
+              "Object box - last sound",
+              "Association of sounds with pictures"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Math",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Oral counting of numerals (1-20)",
+              "Sandpaper tracing (0-9)",
+              "Number rods"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Oral counting of numerals (21-25)",
+              "Shell counting (1-5)",
+              "Zero activity",
+              "Number rods and cards"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "EVS",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Parts of a book",
+              "Globe",
+              "Continents -world map"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Flowers",
+              "Germination",
+              "Parts of a tree"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "EPL Activities",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "How to use scissors to cut patterns",
+              "How to offer a sharp object",
+              "Folding T-shirt activity"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Rolling dough",
+              "Transferring grains",
+              "Pattern cutting using scissors",
+              "Frames",
+              "Puzzles"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sensorial",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Dimensional materials",
+              "Colour box - 2",
+              "Colour cylinders",
+              "Geometrical cards",
+              "Binomial square",
+              "Trinomial square"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Constructive triangles",
+              "Geometrical cards (3sets)"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Speaking Skills",
+        "blocks": [
+          {
+            "phase": "general",
+            "topics": [
+              "The flower I like the most"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "October",
+    "year": "2026-27",
+    "subjects": [
+      {
+        "name": "English",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Alphabet a-z sounds",
+              "Association of sounds with pictures",
+              "Opposites"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Sandpaper letter tracing (l, h, t, b)",
+              "Object box – first and last sound",
+              "Rhymes and stories"
+            ]
+          },
+          {
+            "phase": "writing",
+            "topics": [
+              "Pattern book"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Math",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Oral counting of numerals (1-25)",
+              "Sandpaper tracing (0-9)",
+              "Zero activity",
+              "Number rods and cards"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Oral counting of numerals (26-30)",
+              "Chit game",
+              "Spindle box-1"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "EVS",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Parts of a tree",
+              "Life cycle of a hen",
+              "Germination",
+              "World map"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Fruits"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "EPL Activities",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Transferring grains",
+              "Frames"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Puzzles",
+              "Table manners",
+              "Pattern cutting using scissors"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sensorial",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Dimensional materials",
+              "Colour cylinders",
+              "Geometrical cabinet and cards"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Drawing insets",
+              "Constructive triangles"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Speaking Skills",
+        "blocks": [
+          {
+            "phase": "general",
+            "topics": [
+              "Fruit I like to eat"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "November",
+    "year": "2026-27",
+    "subjects": [
+      {
+        "name": "English",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Alphabet a-z sounds",
+              "Object box – first and last sound",
+              "Association of sounds to pictures",
+              "Rhymes and stories"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Sandpaper letter tracing (d, k, f)",
+              "Drawing patterns"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Math",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Oral counting of numerals (1-30)",
+              "Number rods and cards",
+              "Spindle box"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Oral counting of numerals (31-35)"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "EVS",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Life cycle of a hen",
+              "Parts of a tree",
+              "Globe and continents"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Vegetables"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "EPL Activities",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Puzzles",
+              "Frames"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Sorting fruits and vegetables"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sensorial",
+        "blocks": [
+          {
+            "phase": "revision",
+            "topics": [
+              "Dimensional materials",
+              "Colour cylinders",
+              "Geometrical cabinet and cards",
+              "Drawing insets"
+            ]
+          },
+          {
+            "phase": "introduction",
+            "topics": [
+              "Constructive triangles",
+              "Binomial cube"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Speaking Skills",
+        "blocks": [
+          {
+            "phase": "general",
+            "topics": [
+              "Vegetables are yummy"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

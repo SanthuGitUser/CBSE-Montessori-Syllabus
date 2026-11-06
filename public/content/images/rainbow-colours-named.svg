@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img">
+  <title>Rainbow colours with names</title>
+  <rect width="800" height="320" fill="#fafaf9"/>
+  <text x="400" y="40" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="22" font-weight="600">Rainbow colours  say the name + point</text>
+  <g font-family="Segoe UI,sans-serif" font-size="16" font-weight="600">
+    <rect x="40" y="70" width="90" height="160" fill="#ef4444" rx="8"/><text x="85" y="250" text-anchor="middle" fill="#444">Red</text>
+    <rect x="140" y="70" width="90" height="160" fill="#f97316" rx="8"/><text x="185" y="250" text-anchor="middle" fill="#444">Orange</text>
+    <rect x="240" y="70" width="90" height="160" fill="#eab308" rx="8"/><text x="285" y="250" text-anchor="middle" fill="#444">Yellow</text>
+    <rect x="340" y="70" width="90" height="160" fill="#22c55e" rx="8"/><text x="385" y="250" text-anchor="middle" fill="#444">Green</text>
+    <rect x="440" y="70" width="90" height="160" fill="#3b82f6" rx="8"/><text x="485" y="250" text-anchor="middle" fill="#444">Blue</text>
+    <rect x="540" y="70" width="90" height="160" fill="#6366f1" rx="8"/><text x="585" y="250" text-anchor="middle" fill="#444">Indigo</text>
+    <rect x="640" y="70" width="90" height="160" fill="#a855f7" rx="8"/><text x="685" y="250" text-anchor="middle" fill="#444">Violet</text>
+  </g>
+  <text x="400" y="295" text-anchor="middle" font-size="14" fill="#57534e">VIBGYOR order used in many M1 classrooms</text>
+</svg>

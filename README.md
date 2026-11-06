@@ -38,4 +38,6 @@ npm run preview
 
 The Vite **`base`** is set to `/CBSE-Montessori-Syllabus/` for production so scripts and `public/` assets load under that subpath. If you rename the repository, update `GITHUB_PAGES_BASE` in `vite.config.ts` to `/<new-repo-name>/` (trailing slash required), then rebuild and redeploy.
 
+**Deploy:** push to `main`. The workflow [`.github/workflows/static.yml`](.github/workflows/static.yml) runs `npm ci`, `npm run build`, and publishes the **`dist`** folder. In the repo **Settings → Pages**, set the source to **GitHub Actions** (not “Deploy from a branch” uploading the raw repo—that serves `index.html` with `/src/main.tsx` and causes **404** on `main.tsx`).
+
 Parent checkmarks (“We talked about this at home”) are stored in the browser’s local storage only.

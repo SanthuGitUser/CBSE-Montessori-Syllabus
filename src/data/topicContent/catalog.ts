@@ -1,8 +1,9 @@
 import type { ItemCard } from "../../lib/topicContent/types";
+import { publicAsset } from "../../lib/publicAsset";
 
-const item = (slug: string) => `/content/items/${slug}.webp`;
-const lesson = (slug: string) => `/content/lessons/${slug}.webp`;
-const epl = (slug: string) => `/content/epl/${slug}.webp`;
+const item = (slug: string) => publicAsset(`content/items/${slug}.webp`);
+const lesson = (slug: string) => publicAsset(`content/lessons/${slug}.webp`);
+const epl = (slug: string) => publicAsset(`content/epl/${slug}.webp`);
 
 export const montessoriEnvironmentItems: ItemCard[] = [
   { photo: epl("rolling-mat"), name: "Work mat / rug", detail: "Child rolls it out before any table or floor work." },

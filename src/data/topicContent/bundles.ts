@@ -1,3 +1,4 @@
+import { publicAsset } from "../../lib/publicAsset";
 import type { TopicRichContent } from "../../lib/topicContent/types";
 import {
   bodyPartItems,
@@ -96,9 +97,9 @@ export const exactBundles: Record<string, TopicRichContent> = {
   "myself": pack({
     title: "Myself",
     itemCards: [
-      { photo: "/content/items/family-me.webp", name: "My name", detail: "Say your full name clearly." },
-      { photo: "/content/items/my-age.webp", name: "My age", detail: "How old am I?" },
-      { photo: "/content/items/my-feelings.webp", name: "My feelings", detail: "Happy, sad, angry, excited." },
+      { photo: publicAsset("content/items/family-me.webp"), name: "My name", detail: "Say your full name clearly." },
+      { photo: publicAsset("content/items/my-age.webp"), name: "My age", detail: "How old am I?" },
+      { photo: publicAsset("content/items/my-feelings.webp"), name: "My feelings", detail: "Happy, sad, angry, excited." },
       ...bodyPartItems.slice(0, 4),
     ],
     audios: [{ label: "About me", speakText: "I am special. This is my body. I can say my name and age." }],
@@ -110,7 +111,10 @@ export const exactBundles: Record<string, TopicRichContent> = {
   }),
   "myself and my family": pack({
     title: "Myself and my family",
-    itemCards: [...familyItems, { photo: "/content/items/env-shelves.webp", name: "My school", detail: "Teachers and friends there." }],
+    itemCards: [
+      ...familyItems,
+      { photo: publicAsset("content/items/env-shelves.webp"), name: "My school", detail: "Teachers and friends there." },
+    ],
     audios: [{ label: "Family + school", speakText: "My family at home. My teachers and friends at school." }],
   }),
   "my happy family": pack({

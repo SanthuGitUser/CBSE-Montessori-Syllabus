@@ -1,6 +1,7 @@
+import { publicAsset } from "../../lib/publicAsset";
 import type { EplActivity } from "./eplActivities";
 
-const photo = (slug: string) => `/content/lessons/${slug}.webp`;
+const photo = (slug: string) => publicAsset(`content/lessons/${slug}.webp`);
 
 /** Classroom lessons outside EPL. Order matters: specific patterns first. */
 export const lessonActivities: EplActivity[] = [

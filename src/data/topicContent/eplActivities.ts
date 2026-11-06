@@ -5,7 +5,9 @@ export type EplActivity = {
   steps: string[];
 };
 
-const photo = (slug: string) => `/content/epl/${slug}.webp`;
+import { publicAsset } from "../../lib/publicAsset";
+
+const photo = (slug: string) => publicAsset(`content/epl/${slug}.webp`);
 
 /** Order matters: more specific patterns come before general ones. */
 export const eplActivities: EplActivity[] = [

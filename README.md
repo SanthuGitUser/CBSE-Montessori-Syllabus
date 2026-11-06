@@ -34,4 +34,8 @@ npm run build
 npm run preview
 ```
 
+### GitHub Pages (`*.github.io/<repo>/`)
+
+The Vite **`base`** is set to `/CBSE-Montessori-Syllabus/` for production so scripts and `public/` assets load under that subpath. If you rename the repository, update `GITHUB_PAGES_BASE` in `vite.config.ts` to `/<new-repo-name>/` (trailing slash required), then rebuild and redeploy.
+
 Parent checkmarks (“We talked about this at home”) are stored in the browser’s local storage only.
